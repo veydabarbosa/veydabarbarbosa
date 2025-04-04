@@ -23,7 +23,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 - **Banco de Dados:** SQL (básico)  
 - **Cloud:** AWS (noções gerais e projetos acadêmicos)  
 - **Sistemas Operacionais:** Windows, Linux  
-- **Ferramentas:** Git, VS Code  
+- **Ferramentas:** Git, VS Code, Zabbix, Grafana
 
 ---
 
@@ -38,7 +38,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 **Nuvme — Analista de Suporte Júnior**  
 📍 Blumenau/SC | 🗓 Jul 2024 – Fev 2025  
 - Monitoramento e manutenção de infraestrutura em ambiente cloud (AWS)  
-- Análise e resposta a alertas via Zabbix  
+- Análise e resposta a alertas via Zabbix e Grafana
 - Suporte técnico e resolução de incidentes em produção
 
 ---
