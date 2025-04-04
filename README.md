@@ -1,4 +1,4 @@
-# 👩‍💻 Veyda Cristina Barbosa
+# 🌙 Veyda Cristina Barbosa
 
 Estudante de Ciência da Computação na FURB e estagiária de Suporte N1 na MYRP, empresa de sistemas de gestão empresarial com foco em soluções em nuvem para pequenas e médias empresas.
 
@@ -6,7 +6,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 
 ---
 
-## 🧠 Sobre
+## ☆ Sobre
 
 - 🎓 Cursando Ciência da Computação (FURB)  
 - 👩‍💻 Início de experiência com suporte técnico ao sistema ERP (MYRP)  
@@ -16,7 +16,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+## ☆ Tecnologias & Ferramentas
 
 - **Sistemas ERP:** MYRP  
 - **Linguagens:** Java (usada na graduação), Python (iniciante)  
@@ -27,7 +27,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 
 ---
 
-## 💼 Experiência
+## ☆ Experiência
 
 **MYRP — Suporte N1**  
 📍 Blumenau/SC | 🗓 Mar 2025 – Atualmente  
@@ -43,7 +43,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 
 ---
 
-## 📘 Formação
+## ☆ Formação
 
 - **Bacharelado em Ciência da Computação** – FURB (2025–2029)
 - **Técnico em Desenvolvimento de Sistemas** – Cedup Hermann Hering (2022-2024)
@@ -52,7 +52,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 
 ---
 
-## 📫 Contato
+## ☆ Contato
 
 - 📧 **Email:** veydaccbarbosa@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/veyda-cristina-barbosa-076616291](https://linkedin.com/in/veyda-cristina-barbosa-076616291)
