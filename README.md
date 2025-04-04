@@ -55,7 +55,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 ## ☆ Contato
 
 - 📧 **Email:** veydaccbarbosa@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/veyda-cristina-barbosa-076616291](https://linkedin.com/in/veyda-cristina-barbosa-076616291)
+- 💼 **LinkedIn:** www.linkedin.com/in/veydacbarbosa
 
 ---
 
