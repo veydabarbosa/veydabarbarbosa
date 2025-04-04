@@ -1,4 +1,4 @@
-# 🌙 Veyda Cristina Barbosa
+# 🌙 Veyda Cristina Barbosa 🌟
 
 Graduanda em Ciência da Computação pela FURB e atuando como estagiária na MYRP, empresa de sistemas de gestão empresarial com foco em soluções em nuvem para pequenas e médias empresas.
 
@@ -11,7 +11,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 - 🎓 Graduanda em Ciência da Computação (FURB)  
 - 👩‍💻 Início de experiência com suporte técnico ao sistema ERP (MYRP)  
 - 💡 Interesse em desenvolvimento backend, automação, segurança e cloud  
-- 📚 Estudando lógica de programação, Java e estruturas de dados na graduação  
+- 📚 Estudando arquitetura de computadores, computação e programação - Java na graduação
 - ☁️ Já tive contato com AWS e sigo explorando conceitos de computação em nuvem 
 
 ---
