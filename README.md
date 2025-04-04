@@ -8,7 +8,7 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 
 ## ☆ Sobre
 
-- 🎓 Cursando Ciência da Computação (FURB)  
+- 🎓 Graduanda em Ciência da Computação (FURB)  
 - 👩‍💻 Início de experiência com suporte técnico ao sistema ERP (MYRP)  
 - 💡 Interesse em desenvolvimento backend, automação, segurança e cloud  
 - 📚 Estudando lógica de programação, Java e estruturas de dados na graduação  
