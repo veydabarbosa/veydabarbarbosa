@@ -1,4 +1,4 @@
-# 🌙 Veyda Cristina Barbosa 🌟
+# 🌙 Veyda Cristina Barbosa 
 
 Graduanda em Ciência da Computação pela FURB e atuando como estagiária na MYRP, empresa de sistemas de gestão empresarial com foco em soluções em nuvem para pequenas e médias empresas.
 
