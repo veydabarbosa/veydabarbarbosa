@@ -1,6 +1,6 @@
 # 🌙 Veyda Cristina Barbosa
 
-Estudante de Ciência da Computação na FURB e estagiária de Suporte N1 na MYRP, empresa de sistemas de gestão empresarial com foco em soluções em nuvem para pequenas e médias empresas.
+Graduanda em Ciência da Computação pela FURB e atuando como estagiária na MYRP, empresa de sistemas de gestão empresarial com foco em soluções em nuvem para pequenas e médias empresas.
 
 Tenho interesse em desenvolvimento backend, automação, segurança voltada para sistemas e também exploro front-end como forma de ampliar minha visão como desenvolvedora. Já tive contato com AWS em experiências anteriores e atualmente atuo na MYRP com suporte técnico ao sistema ERP, ajudando usuários e acompanhando o funcionamento da aplicação no dia a dia. Estou sempre buscando crescer como profissional, conectando o que aprendo na faculdade com a prática do trabalho.
 
