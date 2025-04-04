@@ -8,20 +8,22 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 
 ## 🧠 Sobre
 
-- 🎓 Cursando Ciência da Computação (FURB)
-- 👩‍💻 Experiência com suporte técnico ao sistema ERP
-- 💡 Interesse em automação, desenvolvimento backend e segurança
-- 📚 Estudando Python, lógica de programação, e estruturas de dados
+- 🎓 Cursando Ciência da Computação (FURB)  
+- 👩‍💻 Início de experiência com suporte técnico ao sistema ERP (MYRP)  
+- 💡 Interesse em desenvolvimento backend, automação, segurança e cloud  
+- 📚 Estudando lógica de programação, Java e estruturas de dados na graduação  
+- ☁️ Já tive contato com AWS e sigo explorando conceitos de computação em nuvem 
 
 ---
 
 ## ⚙️ Tecnologias & Ferramentas
 
-- **Sistemas ERP:** MYRP
-- **Linguagens:** Java, Python (iniciante)
-- **Ferramentas:** Git, VS Code
-- **Banco de Dados:** SQL (básico)
-- **Sistemas Operacionais:** Windows, Linux
+- **Sistemas ERP:** MYRP  
+- **Linguagens:** Java (usada na graduação), Python (iniciante)  
+- **Banco de Dados:** SQL (básico)  
+- **Cloud:** AWS (noções gerais e projetos acadêmicos)  
+- **Sistemas Operacionais:** Windows, Linux  
+- **Ferramentas:** Git, VS Code  
 
 ---
 
