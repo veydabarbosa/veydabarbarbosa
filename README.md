@@ -54,10 +54,8 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 
 ## ☆ Contato:
 
-Email:
-
-veydaccbarbosa@gmail.com - PESSOAL
-veydab@furb.br - INSTITUCIONAL
+Email: veydaccbarbosa@gmail.com - PESSOAL
+                           veydab@furb.br - INSTITUCIONAL
   
 LinkedIn: www.linkedin.com/in/veydacbarbosa
 
