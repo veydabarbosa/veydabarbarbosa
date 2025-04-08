@@ -30,13 +30,13 @@ Tenho interesse em desenvolvimento backend, automação, segurança voltada para
 ## ☆ Experiência:
 
 **MYRP — Suporte N1**  
-📍 Blumenau/SC |  Mar 2025 – Atualmente  
+ Blumenau/SC |  Mar 2025 – Atualmente  
 - Atendimento técnico aos usuários do sistema MYRP  
 - Suporte funcional e análise de chamados  
 - Apoio na melhoria de processos internos de atendimento  
 
 **Nuvme — Analista de Suporte Júnior**  
-📍 Blumenau/SC |  Jul 2024 – Fev 2025  
+ Blumenau/SC |  Jul 2024 – Fev 2025  
 - Monitoramento e manutenção de infraestrutura em ambiente cloud (AWS)  
 - Análise e resposta a alertas via Zabbix e Grafana
 - Suporte técnico e resolução de incidentes em produção
